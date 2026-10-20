@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "jaraco.office",
+  "versions": [
+    {
+      "commit": "cfce41767ac8e91fe02e17ddf4cf551a6a0e565e",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:12:03.299978+00:00"
+    }
+  ]
+}
